@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode 알고리즘
+LeetCode 문제풀이
